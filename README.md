@@ -2,7 +2,7 @@
 
 A modern, high-performance, one-page personal developer portfolio built with React 19, TypeScript, Vite, Tailwind CSS, Framer Motion, and Lucide React.
 
-![Portfolio Preview](./public/photo.jpg)
+![Portfolio Preview]
 
 ## 🚀 Features
 
